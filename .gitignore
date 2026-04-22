@@ -1,0 +1,15 @@
+# Grote of tijdelijke bestanden
+*.gz
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+
+# NDW geocode cache (wordt lokaal gegenereerd)
+ndw_road_cache.json
+
+# Batch setup bestand (bevat lokale paden)
+SETUP-DisplayServer.bat
