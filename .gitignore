@@ -13,3 +13,10 @@ ndw_road_cache.json
 
 # Batch setup bestand (bevat lokale paden)
 SETUP-DisplayServer.bat
+
+# Events agenda — bevat interne afspraken, niet publiek delen
+events.xlsx
+events.json
+
+# Rebuild script — bevat lokale paden
+rebuild3.ps1
